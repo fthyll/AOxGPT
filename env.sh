@@ -10,4 +10,6 @@ export OPENAI_API_KEY="INSERT"
 
 # Server variables
 export ADMIN_KEY="INSERT"
+
+
 export PORT="INSERT"
